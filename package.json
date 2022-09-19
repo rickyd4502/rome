@@ -28,7 +28,7 @@
     "express": "^4.17.2",
     "express-ws": "^5.0.2",
     "funcaptcha": "^1.0.15",
-    "inquirer": "^7.3.3",
+    "inquirer": "^9.1.2",
     "lodash": "^4.17.21",
     "minimist": "^1.2.6",
     "mongoose": "^6.1.4",
